@@ -1,4 +1,4 @@
-console.log("postman clone");
+// console.log("postman clone");
 
 // UTILTY FUNCTIONS
 // 1.STRING TO HTML ELEMENT
