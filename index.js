@@ -107,10 +107,10 @@ else{
     data=document.getElementById('requestJsonText').value;
 }
 
-   console.log(url);
-   console.log(requestType);
-   console.log(contentType);
-   console.log(data);
+//    console.log(url);
+//    console.log(requestType);
+//    console.log(contentType);
+//    console.log(data);
    // IF REQUEST TYPE == GET THEN CREATE GET  REQUEST
    if(requestType=='GET'){
       fetch(url,{
@@ -140,10 +140,6 @@ else{
         });
    }
 });
-
-
-
-console.log(addParam);
 
 
 
